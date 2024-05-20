@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Adam Amzar</h1>
-<h3 align="center">An Undergraduate Information Technology Student From Malaysia</h3>
+<h3 align="center">A Diploma in Information Technology Student From Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
 
 
