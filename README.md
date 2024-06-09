@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **COSense-Carbon Monoxide Detector for Personal Vehicle**
 
-- 🌱 I’m currently learning **Front-end Development**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **adamamzar98@gmail.com**
 
