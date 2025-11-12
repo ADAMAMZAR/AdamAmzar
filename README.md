@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/adamnajmin_" target="blank"><img src="https://img.shields.io/twitter/follow/adamnajmin_?logo=twitter&style=for-the-badge" alt="adamnajmin_" /></a> </p>
 
-- 🔭 I’m currently working on **COSense-Carbon Monoxide Detector for Personal Vehicle**
+- 🔭 I’m currently working as **Software Developer at Haroct Sdn Bhd**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **adamamzar98@gmail.com**
 
