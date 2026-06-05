@@ -14,7 +14,7 @@
 
 ### 💻 Current Work & Engineering Focus
 * 🎓 **Academics:** Pursuing a B.Sc. (Hons.) in Computer Science at UiTM.
-* 💼 **Experience:** Currently working as an Artificial Intelligence Intern.
+* 💼 **Experience:** Currently working as an Artificial Intelligence Intern at Gamuda Engineering.
 * 🚀 **Projects:** 
   * Technical Lead for **TenderVise AI**, an automated tendering and bid management system utilizing RAG pipelines and vector databases.
   * Developed **Abang Mystery**, an autonomous AI testing architecture.
