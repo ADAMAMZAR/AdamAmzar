@@ -30,6 +30,6 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamamzar&show_icons=true&locale=en&theme=radical" alt="adamamzar stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamamzar&show_icons=true&locale=en&layout=compact&theme=radical" alt="adamamzar top languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=adamamzar&show_icons=true&locale=en&theme=radical" alt="adamamzar stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=adamamzar&show_icons=true&locale=en&layout=compact&theme=radical" alt="adamamzar top languages" width="48%" />
 </p>
